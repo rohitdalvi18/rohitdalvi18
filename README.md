@@ -13,7 +13,8 @@ I design & develop digital products
 * 📫  Contact me through [email](mailto:rohit.dalvi2001@gmail.com)
 
 <h3 align="left">Socials</h3>
-<a href="https://www.dribbble.com/rohit187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/rohitdalvi18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rohit-dalvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/rohitdalvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13992830/rohit-dalvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/anotherohit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.dribbble.com/rohit187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/rohitdalvi18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rohit-dalvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/rohitdalvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/anotherohit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Skills
 <p align="left">
@@ -48,6 +49,7 @@ I design & develop digital products
 * [How to push data to array asynchronously & save it in Node.js ?](https://www.geeksforgeeks.org/how-to-push-data-to-array-asynchronously-save-it-in-node-js/)
 * [How to get a component when client does not fetches the data from API ?](https://www.geeksforgeeks.org/how-to-get-a-component-when-client-does-not-fetches-the-data-from-api/)
 * [Next.js getInitialProps](https://www.geeksforgeeks.org/next-js-getinitialprops/)
+* [How to use template literals in Tailwind CSS to change classes dynamically ?](https://www.geeksforgeeks.org/how-to-use-template-literals-in-tailwind-css-to-change-classes-dynamically/)
 
 
 ### GitHub stats
