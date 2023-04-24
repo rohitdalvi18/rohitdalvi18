@@ -7,7 +7,7 @@ I design & develop digital products
 * 🖥️  Former SDE Intern [@mercedes-benz](https://github.com/mercedes-benz)
 * 👨‍💻 Previouly SWE Intern [@Shoprox](https://github.com/shoprox)
 * ⚡  Used to be the [Google DSC Lead](https://developers.google.com/community/gdsc/leads) at [gdscpvgcoet](https://gdscpvgcoet.in/)
-* 🚀  I'm currently working on [AutoBird](http://auto-bird.com)
+* 🚀  I'm currently working on [AutoBird](https://autobird-staging.vercel.app/)
 * 📝 I regularly write articles on [Medium](https://rohitdalvi.medium.com) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rohitdalvi/articles)
 * 🤝  I'm open to collaborating on freelancing projects & new ideas
 * 📫  Contact me through [email](mailto:rohit.dalvi2001@gmail.com)
@@ -50,6 +50,7 @@ I design & develop digital products
 * [How to get a component when client does not fetches the data from API ?](https://www.geeksforgeeks.org/how-to-get-a-component-when-client-does-not-fetches-the-data-from-api/)
 * [Next.js getInitialProps](https://www.geeksforgeeks.org/next-js-getinitialprops/)
 * [How to use template literals in Tailwind CSS to change classes dynamically ?](https://www.geeksforgeeks.org/how-to-use-template-literals-in-tailwind-css-to-change-classes-dynamically/)
+* [Next.js Data Fetching](https://www.geeksforgeeks.org/next-js-data-fetching/)
 
 
 ### GitHub stats
