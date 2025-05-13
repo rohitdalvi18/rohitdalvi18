@@ -47,7 +47,7 @@ I develop scalable digital products
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdalvi18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohitdalvi18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&mode=weekly)](https://github.com/rohitdalvi18)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rohitdalvi18&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/rohitdalvi18/count.svg)
